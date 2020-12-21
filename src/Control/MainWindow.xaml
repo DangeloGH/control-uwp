@@ -83,7 +83,7 @@
                     </ui:NavigationViewItem.Icon>
                 </ui:NavigationViewItem>
 
-                <ui:NavigationViewItem Content="Personalization" Tag="Personalization">
+                <ui:NavigationViewItem Content="Personalization" Tag="Personalização">
                     <ui:NavigationViewItem.Icon>
                         <ui:FontIcon Glyph="&#xE771;" />
                     </ui:NavigationViewItem.Icon>
